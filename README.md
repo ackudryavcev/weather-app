@@ -11,4 +11,4 @@ The app shows:
 
 You can see https://ackudryavcev.github.io/weather-app/
 
-Data from pablic api openweathermap.org
+Data from public api openweathermap.org
